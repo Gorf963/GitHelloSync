@@ -11,6 +11,9 @@ namespace GitHelloSync
         static void Main(string[] args)
         {
             //cool
+            //Very Cool
+            int i;
+            i++;
         }
     }
 }
