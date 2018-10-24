@@ -12,8 +12,8 @@ namespace GitHelloSync
         {
             //cool
             //Very Cool
-            int i;
-            i++;
+            Console.WriteLine("Hello World");
+            Console.ReadLine();
         }
     }
 }
