@@ -10,6 +10,7 @@ namespace GitHelloSync
     {
         static void Main(string[] args)
         {
+            //cool
         }
     }
 }
